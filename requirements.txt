@@ -1,0 +1,8 @@
+keras
+tensorflow
+Sequential
+PIL 
+numpy
+flask
+pandas
+
